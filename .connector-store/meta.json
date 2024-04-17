@@ -1,0 +1,19 @@
+{
+    "name": "tcp",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-tcp/",
+    "description": "The siddhi-io-tcp extension is an extension to Siddhi that allows to receive and publish events through TCP.",
+    "status": "Active",
+    "labels": [
+        "tcp",
+        "siddhi-io",
+        "siddhi"
+    ],
+    "releases": [
+        {
+            "tagName": "2.0.20",
+            "products": []
+        }
+    ]
+}
